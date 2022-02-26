@@ -66,8 +66,6 @@ app.get('/weather',(req, res)=>{
    })
     })
   })
-   
-
 })
 
 app.get('/pro',(req,res)=>{
